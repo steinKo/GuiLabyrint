@@ -1,0 +1,6 @@
+[submodule "Labyrint"]
+	path = Labyrint
+	url = https://github.com/steinKo/Labyrint.git
+[submodule "LenkedeLister"]
+	path = LenkedeLister
+	url = https://github.com/steinKo/LenkedeLister.git
